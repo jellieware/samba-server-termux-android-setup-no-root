@@ -1,6 +1,9 @@
 # samba-server-termux-android-setup-no-root
 Samba server tutorial for Android
 <br><br>
+<img width="256" height="256" alt="1000923966" src="https://github.com/user-attachments/assets/6f359538-4818-4a08-a6fa-bf27f9506b1e" />
+
+<br><br>
 1] Install Samba Server on Termux:<br><br>
 
 "pkg install samba"<br><br>
