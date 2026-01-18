@@ -20,9 +20,9 @@ d) Enter your password twice<br><br>
 a) The following lines have to be added to [globals]:<br><br>
 
    interfaces = 0.0.0.0/0<br>
-# Allow connections from any IP address (less secure, use specific subnets for safety)<br>
+
    hosts allow = 0.0.0.0/0<br>
-# Ensure Samba binds to the loopback for local access too<br>
+
    interfaces += 127.0.0.1/8<br><br>
    
    The port should be: 4445<br><br>
