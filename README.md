@@ -9,7 +9,7 @@ Samba server tutorial for Android
 
 a) Type "whoami"<br><br>
 
-b) Copy username and replace it in the following line without asterixs:<br><br>
+b) Copy username and replace it in the following line without quotation marks:<br><br>
 
 c) Type: "smbpasswd -L -c /data/data/com.termux/files/usr/etc/smb.conf -a *username*"<br><br>
 
