@@ -16,7 +16,7 @@ b) Copy username and replace it in the following line without quotation marks:<b
 
 c) Type: "smbpasswd -L -c /data/data/com.termux/files/usr/etc/smb.conf -a *username*"<br><br>
 
-d) Enter your password twice<br><br>
+d) Enter a unique password twice<br><br>
 
 3] Edit smb.conf (I have uploaded a sample config you can look at, in the files section of this repo)<br><br>
 
