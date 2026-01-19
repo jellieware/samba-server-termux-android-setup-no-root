@@ -22,11 +22,7 @@ d) Enter a unique password twice<br><br>
 
 a) The following lines have to be added to [globals]:<br><br>
 
-   interfaces = 0.0.0.0/0<br>
-
-   hosts allow = 0.0.0.0/0<br>
-
-   interfaces += 127.0.0.1/8<br><br>
+  interfaces = lo wlan* <br><br>
    
    The port should be: 4445<br><br>
    
